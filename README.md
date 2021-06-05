@@ -4,7 +4,7 @@ You can check out the app online at:
 
 **https://notekeeping-web-app.herokuapp.com/**
 
-#3To run it localy on your computer first do 
+### To run it localy on your computer first do 
 
 *Windows:*
 
@@ -14,11 +14,11 @@ You can check out the app online at:
 
 ```pip3 install -r requirements.txt```
 
-#3Then go into the notekeep folder
+### Then go into the notekeep folder
 
 ```cd notekeep```
 
-#3Setup by running the following 
+### Setup by running the following 
 
 *Windows:*
 
@@ -32,7 +32,7 @@ You can check out the app online at:
 
 ```python3 manage.py migrate```
 
-#3Finally run the app using
+### Finally run the app using
 
 *Windows:* 
 
