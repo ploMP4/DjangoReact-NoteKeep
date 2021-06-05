@@ -6,11 +6,11 @@ You can check out the app online at:
 
 To run it localy on your computer first do 
 
-Windows: 
+*Windows:*
 
 ```pip install -r requirements.txt```
 
-Linux: 
+*Linux:* 
 
 ```pip3 install -r requirements.txt```
 
@@ -20,13 +20,13 @@ Then go into the notekeep folder
 
 Setup by running the following 
 
-Windows:
+*Windows:*
 
 ```python manage.py makemigrations```
 
 ```python manage.py migrate```
 
-Linux:
+*Linux:*
 
 ```python3 manage.py makemigrations```
 
@@ -34,10 +34,10 @@ Linux:
 
 Finally run the app using
 
-Windows: 
+*Windows:* 
 
 ```python manage.py runserver```
 
-Linux:
+*Linux:*
 
 ```python3 manage.py runserver```
