@@ -8,36 +8,36 @@
 
 *Windows:*
 
-```pip install -r requirements.txt```
+#### ```pip install -r requirements.txt```
 
 *Linux:* 
 
-```pip3 install -r requirements.txt```
+#### ```pip3 install -r requirements.txt```
 
 ### Then go into the notekeep folder
 
-```cd notekeep```
+#### ```cd notekeep```
 
 ### Setup by running the following 
 
 *Windows:*
 
-```python manage.py makemigrations```
+#### ```python manage.py makemigrations```
 
-```python manage.py migrate```
+#### ```python manage.py migrate```
 
 *Linux:*
 
-```python3 manage.py makemigrations```
+#### ```python3 manage.py makemigrations```
 
-```python3 manage.py migrate```
+#### ```python3 manage.py migrate```
 
 ### Finally run the app using
 
 *Windows:* 
 
-```python manage.py runserver```
+#### ```python manage.py runserver```
 
 *Linux:*
 
-```python3 manage.py runserver```
+#### ```python3 manage.py runserver```
