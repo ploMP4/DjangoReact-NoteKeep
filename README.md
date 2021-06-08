@@ -6,6 +6,8 @@
 
 **https://notekeeping-web-app.herokuapp.com/**
 
+>*Please excuse the slow loading times as its on a free hosting
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### To run it localy on your computer first do 
@@ -30,7 +32,7 @@
 
 #### ```python manage.py migrate```
 
-*Linux:*
+*Mac && Linux:*
 
 #### ```python3 manage.py makemigrations```
 
@@ -42,7 +44,7 @@
 
 #### ```python manage.py runserver```
 
-*Linux:*
+*Mac && Linux:*
 
 #### ```python3 manage.py runserver```
 
