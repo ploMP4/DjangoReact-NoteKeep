@@ -6,7 +6,7 @@
 
 **https://notekeeping-web-app.herokuapp.com/**
 
->*Please excuse the slow loading times as its on a free hosting
+>*Please excuse the slow loading times as its on a free hosting*
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
