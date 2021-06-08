@@ -4,9 +4,9 @@
 
 ## You can check out the app online at:
 
-**https://notekeeping-web-app.herokuapp.com/**
+>*Please excuse the slow loading times as its on free hosting*
 
->*Please excuse the slow loading times as its on a free hosting*
+**https://notekeeping-web-app.herokuapp.com/**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
