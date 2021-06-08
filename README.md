@@ -41,3 +41,5 @@
 *Linux:*
 
 #### ```python3 manage.py runserver```
+
+### And Navigate to localhost:8000 on your browser
