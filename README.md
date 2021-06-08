@@ -18,7 +18,7 @@
 
 #### ```cd notekeep```
 
-### Setup by running the following 
+### Setup by the database running the following 
 
 *Windows:*
 
