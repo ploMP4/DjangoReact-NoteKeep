@@ -1,3 +1,7 @@
 /notekeep/frontend/node_modules
 
 __pycache__/
+
+/notekeep/db.sqlite3
+
+.env
